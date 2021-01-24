@@ -24,7 +24,7 @@ namespace Day_3_Work_3
 
             musteriManager.Ekle(musteri1);
             musteriManager.Sil(musteri1);
-            musteriManager.Listele(musteri1);
+            musteriManager.Listele(musteri1);   
 
         }
     }
