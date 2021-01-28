@@ -56,7 +56,7 @@ namespace Day_5_Work5_Alternative
             campaignManager.Add(campaign1);
             campaignManager.ApplyDiscount(campaign1,order1);
             campaignManager.Delete(campaign1);
-
+            //..
             Console.ReadLine();
             
 
